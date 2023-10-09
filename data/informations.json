@@ -1,0 +1,55 @@
+{
+    "interns": {
+        "intern": [
+            {
+                "name": "Allan Cristhian",
+                "week": {
+                    "timetable":[
+                        {
+                            "monday": "Manhã",
+                            "tuesday": "Tarde",
+                            "wednesday": "Manhã",
+                            "thursday": "Tarde",
+                            "friday": "Manhã"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Matheus Mendes",
+                "week": {
+                    "timetable":[
+                        {
+                            "monday": "Manhã",
+                            "tuesday": "Tarde",
+                            "wednesday": "Manhã",
+                            "thursday": "Tarde",
+                            "friday": "Tarde"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "Vinicius Melo",
+                "week": {
+                    "timetable":[
+                        {
+                            "monday": "Tarde",
+                            "tuesday": "Manhã",
+                            "wednesday": "Tarde",
+                            "thursday": "Manhã",
+                            "friday": "Manhã"
+                        }
+                    ]
+                }
+            }
+        ],
+        "weekday": [
+            "Segunda-Feira",
+            "Terça-Feira",
+            "Quarta-Feira",
+            "Quinta-Feira",
+            "Sexta-Feira"
+        ]
+    }
+}
